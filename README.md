@@ -1,5 +1,7 @@
 # TLDR ; Create an API using CakePHP
 
+<img width="1256" alt="Screenshot 2024-04-30 at 4 12 42 PM" src="https://github.com/wanadri/playcard-api/assets/13805716/64fbf2c8-b235-48b8-b3a1-df0fb6f71ab1">
+
 ## Introduction
 
 ### API Development Requirement
